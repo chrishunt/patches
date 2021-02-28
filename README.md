@@ -1,6 +1,6 @@
 # Synthesizer Patches
 
-All patches were used in a song on [YouTube](https://www.youtube.com/c/ChrisHuntTunes) and are shared here free of charge.
+All patches were used in a song on [YouTube](https://www.youtube.com/c/ChrisHuntTunes) and are shared here free to use for your own song.
 
 - YouTube: [Chris Hunt](https://www.youtube.com/c/ChrisHuntTunes)
 - Spotify: [Chris Hunt](https://open.spotify.com/artist/3BZsngEMYCvtF3ZssXnLjM?si=PJvK76zlSKW90Pm0ica7_w)
