@@ -1,8 +1,8 @@
 # Synthesizer Patches
 
 Hi, I'm [Chris Hunt](https://www.youtube.com/c/ChrisHuntTunes) and these
-synthesizer patches are made by me and are shared here for free so you can use
-them however you wish. Thank you for stopping by.
+patches are made by me and shared here for you to use as you wish. Thanks for
+stopping by.
 
 ## Contact / Follow
 
