@@ -9,9 +9,9 @@ All patches were used in a song on [YouTube](https://www.youtube.com/c/ChrisHunt
 
 ## Moog One
 
-| Date       | Preset Name     | 🎥 Watch on YouTube                              | 📁 Download |
-| ---        | ---             | ---                                              | ---         |
-| 2021-02-27 | Ocarina of Time | [Watch on YouTube](https://youtu.be/Q9k3vyJmHGk) | Download |
+| Date       | Preset Name     | 🎥 Watch on YouTube                                  | 📁 Download |
+| ---        | ---             | ---                                                  | ---         |
+| 2021-02-27 | Ocarina of Time | Watch on YouTube (Coming Soon...)                    | Download    |
 
 ## Moog Grandmother
 
