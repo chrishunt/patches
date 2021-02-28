@@ -21,6 +21,6 @@ them however you wish. Thank you for stopping by.
 
 | Name                 | Watch                                            | Download                                                                                                           |
 | ---                  | ---                                              | ---                                                                                                                |
-| Stressed Bass        | [Watch on YouTube](https://youtu.be/CWRDGpsxkaY) | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-grandmother/Stressed%20Bass.png)        |
-| Oriental Strings     | [Watch on YouTube](https://youtu.be/MZF7iQ-x4jU) | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-grandmother/Oriental%20Strings.png)     |
 | Mandalorian Recorder | [Watch on YouTube](https://youtu.be/6egHCW57OdA) | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-grandmother/Mandalorian%20Recorder.png) |
+| Oriental Strings     | [Watch on YouTube](https://youtu.be/MZF7iQ-x4jU) | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-grandmother/Oriental%20Strings.png)     |
+| Stressed Bass        | [Watch on YouTube](https://youtu.be/CWRDGpsxkaY) | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-grandmother/Stressed%20Bass.png)        |
