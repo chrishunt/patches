@@ -12,10 +12,10 @@ you wish.
 
 ## Moog One
 
-| Name            | Watch                                                | Download                                                                                                |
-| ---             | ---                                                  | ---                                                                                                     |
-| Ocarina of Time | [Watch on YouTube](https://youtu.be/Q9k3vyJmHGk)     | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/OCARINA%20OF%20TIME.m1p) |
-| Death by Pizza  | Coming Soon...                                       | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/DEATH%20BY%20PIZZA.m1p)  |
+| Name            | Watch                                                          | Download                                                                                                |
+| ---             | ---                                                            | ---                                                                                                     |
+| Ocarina of Time | [Watch on YouTube](https://youtu.be/Q9k3vyJmHGk)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/OCARINA%20OF%20TIME.m1p) |
+| Death by Pizza  | [Watch on YouTube](https://youtu.be/dW3gNqny-oM)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/DEATH%20BY%20PIZZA.m1p)  |
 
 ## Moog Grandmother
 
