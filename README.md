@@ -15,6 +15,7 @@ you wish.
 | Name            | Watch                                                          | Download                                                                                                |
 | ---             | ---                                                            | ---                                                                                                     |
 | Death by Pizza  | [Watch on YouTube](https://youtu.be/dW3gNqny-oM)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/DEATH%20BY%20PIZZA.m1p)  |
+| In The Zone     | [Watch on YouTube](https://youtu.be/YdygBJe8Mq8)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/IN%20THE%20ZONE.m1p)     |
 | Ocarina of Time | [Watch on YouTube](https://youtu.be/Q9k3vyJmHGk)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/OCARINA%20OF%20TIME.m1p) |
 | Under Water     | [Watch on YouTube](https://youtu.be/fyY4eO2Dbes)               | [Download](https://raw.githubusercontent.com/chrishunt/patches/master/moog-one/UNDER%20WATER.m1p)       |
 
